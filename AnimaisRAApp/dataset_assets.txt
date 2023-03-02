@@ -1,0 +1,10 @@
+arvoregrande
+arvorepequena
+cavalo
+cenario
+cupim
+cupinzeiro
+lontra
+papagaio
+tamandua
+tatu
