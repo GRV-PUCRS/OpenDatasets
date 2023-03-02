@@ -1,3 +1,4 @@
+https://github.com/GRV-PUCRS/OpenDatasets/raw/main/AnimaisRAApp/
 arvoregrande
 arvorepequena
 cavalo
