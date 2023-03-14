@@ -9,4 +9,4 @@ lontra
 papagaio
 tamandua
 tatu
-cottage_fbx.zip
+Mineways2Skfb_obj.zip
