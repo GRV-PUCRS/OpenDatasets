@@ -9,3 +9,4 @@ lontra
 papagaio
 tamandua
 tatu
+cottage_fbx.zip
